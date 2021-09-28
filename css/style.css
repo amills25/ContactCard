@@ -6,3 +6,24 @@
 p {
     padding-top: 10px;
 }
+
+/* div.border-bow::before {
+    content:"";
+    position:absolute;
+    top:0;
+    left:0;
+    right:0;
+    bottom:0;
+    border: 8px solid !important;
+    border-radius: 15px !important;
+    border-image: linear-gradient(to bottom right, red, orange, yellow, green, blue, indigo, violet) 1 !important;
+    -webkit-mask:
+     linear-gradient(#fff 0 0) padding-box, 
+     linear-gradient(#fff 0 0);
+    -webkit-mask-composite: destination-out;
+     mask-composite: exclude;
+} */
+
+h4 {
+    padding-top: 10px;
+}
